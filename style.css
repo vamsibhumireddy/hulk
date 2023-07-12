@@ -1,0 +1,20 @@
+body{
+    margin: 200px 400px 200px 400px;
+    background-image: url("https://wallpapers.com/images/hd/avengers-superheroes-a2byq7qwk8605b2m.webp");
+}
+h2{
+    background-color:white;
+    display: flex;
+    justify-content: space-around;
+    
+}
+h3{
+    color:royalblue;
+    display:flex;
+    justify-content: center;
+}
+.main{
+    display: flex;
+     justify-content:space-around;
+     background-color:white ;
+     background: orange;}
